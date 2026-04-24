@@ -2778,7 +2778,7 @@ st.sidebar.markdown("## ⚙️ MedCheck Settings")
 
 dataset_path = st.sidebar.text_input(
     "Dataset path",
-    value="combined_health_dataset_real_sourced_500plus.csv",
+    value="reduceddataset4k.csv",
     help="Point this to your CSV or TSV file.",
 )
 
